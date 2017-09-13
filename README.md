@@ -1,4 +1,4 @@
-# shugofaakbari.github.iof
+# shugofaakbari.github.io
 <html>
   <head>
     <tittle>Message</tittle>
